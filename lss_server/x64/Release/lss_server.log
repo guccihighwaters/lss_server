@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+main.cpp(58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+main.cpp(71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+main.cpp(73): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  Создание кода
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lss_server.vcxproj -> C:\Users\coolb\source\repos\lss_server\x64\Release\lss_server.exe
